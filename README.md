@@ -224,9 +224,6 @@ sgpt --chat sh "Convert the resulting file into an MP3"
 ### REPL Mode
 There is very handy REPL (read–eval–print loop) mode, which allows you to interactively chat with GPT models. To start a chat session in REPL mode, use the `--repl` option followed by a unique session name. You can also use "temp" as a session name to start a temporary REPL session. Note that `--chat` and `--repl` are using same chat sessions, so you can use `--chat` to start a chat session and then use `--repl` to continue the conversation in REPL mode. REPL mode will also show history of your conversation in the beginning.
 
-<p align="center">
-  <img src="https://s10.gifyu.com/images/repl-demo.gif" alt="gif">
-</p>
 
 ```text
 sgpt --repl temp
