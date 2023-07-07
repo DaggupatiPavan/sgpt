@@ -1,7 +1,6 @@
 # ShellGPT
 A command-line productivity tool powered by OpenAI's GPT models. As developers, we can leverage AI capabilities to generate shell commands, code snippets, comments, and documentation, among other things. Forget about cheat sheets and notes, with this tool you can get accurate answers right in your terminal, and you'll probably find yourself reducing your daily Google searches, saving you valuable time and effort. ShellGPT is cross-platform compatible and supports all major operating systems, including Linux, macOS, and Windows with all major shells, such as PowerShell, CMD, Bash, Zsh, Fish, and many others.
 
-https://user-images.githubusercontent.com/16740832/231569156-a3a9f9d4-18b1-4fff-a6e1-6807651aa894.mp4
 
 ## Installation
 ```shell
@@ -95,7 +94,6 @@ sgpt -s "using ffmpeg combine multiple videos into one without audio. Video file
 ### Shell integration
 Shell integration allows you to use Shell-GPT in your terminal with hotkeys. It is currently available for bash and zsh. It will allow you to have sgpt completions in your shell history, and also edit suggested commands right away.
 
-https://github.com/TheR1D/shell_gpt/assets/16740832/bead0dab-0dd9-436d-88b7-6abfb2c556c1
 
 To install shell integration, run:
 ```shell
